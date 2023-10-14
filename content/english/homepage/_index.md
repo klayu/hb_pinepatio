@@ -1,37 +1,30 @@
 ---
 # Banner
 banner:
-  title: "Laminated I-94 Card for your Wallet"
-  content: "**Suitable for your Pocket, Wallet, Purse or Bag**
-  
-<br/><br/>Every **non-greencard i.e H1B, H4, F1 etc.** holder visiting or residing in the US should be able to produce their I-94 ( proof of legal stay ) at all times when asked by an Authorised personnel. 
-
-<br/><br/>**It CAN be inspected while traveling across states within US or at any random CBP Checkpoint**.
-
-<br/><br/>Do you have your latest I-94 with you right now, if CBP were to ask you?
-
-<br/><br/>We can Help you be SAFE than SORRY!
+  title: "Simplifying Co-Parenting Schedules"
+  content: "**Tired of the constant back-and-forth, misunderstandings, and missed opportunities when it comes to managing your children's custody schedule?**
 "
   image: "/images/banner.png"
   button:
-    enable: true
-    label: "Get Started | $4.99"
+    enable: false
+    label: "Get Started | $5.99"
     link: "contact"
-
+# to time compress a video to 15 secs    
+# ffmpeg -i input_video.mp4 -vf "setpts=0.2*PTS" -t 15 -c:v libx264 -c:a aac -strict experimental output.mp4
 # Features
 features:
-  - title: "What's Included in Laminate Card ?"
-    image: "/images/service-1.png"
-    content: "Your H1/H4/F1 I-797A approval notice contains a new I-94  (towards bottom). You will be asked to upload scanned copy. Our AI then auto extracts the I-94 section, prints and laminates it in Visting Card size and ships it to you."
+  - title: "How does it work ?"
+    image: "/images/tc-ori.gif"
+    content: "We streamline the process, reduce conflicts, and put your children first. Our user-friendly service allows separated couples with children to effortlessly coordinate their parenting schedules.</br></br>Available as Chrome Extension."
     bulletpoints:
-      - "**THICK LAMINATED** for long life"
-      - "Keep it in your **WALLET** at all times"
-      - "You get to verify and apprvove before print"
-      - "Orders processed in-house ( no 3rd party )"
-      - "Family discount available"
-      - "FREE Delivery anywhere in US"
+      - "**Schedule Input** Parents can indicate their availability and unavailability dates, ensuring complete transparency"
+      - "**Approval System** Once the first parent enters their information, the other parent can easily approve or suggest changes with a simple thumbs-up checkbox"
+      - "**Mutual Collaboration** Both parents can enter their availability, making it a collaborative effort to build a balanced schedule"
+      - "**PDF Export** Generate a downloadable, printer-friendly schedule in PDF format for your convenience"
+      - "**Weekly Reminders** Both parents get notified of weekly schedule via email"
+      - "**Ad-hoc Changes** Adjust last minute changes and request urgent approvals"
     button:
       enable: true
-      label: "Get Started | $4.99"
+      label: "Get Started | $5.99"
       link: "contact"
 ---
