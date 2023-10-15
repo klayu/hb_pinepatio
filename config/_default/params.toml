@@ -16,7 +16,7 @@ logo_text = "pinepatio.com"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "dark" # available options [light/dark/system]
+theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -62,8 +62,8 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Immigration", "I94", "Visa","H1","H4","F1","I797"]
-description = "Simplifying Immigration to US"
+keywords = ["CoParenting", "CoParenting App", "CoParenting Schedule","CoParenting Schedule Template"]
+description = "CoParenting App for separated parents"
 author = "Klayu.com"
 image = "images/og-image.png"
 

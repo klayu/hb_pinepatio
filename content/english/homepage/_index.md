@@ -23,6 +23,7 @@ features:
       - "**PDF Export** Generate a downloadable, printer-friendly schedule in PDF format for your convenience"
       - "**Weekly Reminders** Both parents get notified of weekly schedule via email"
       - "**Ad-hoc Changes** Adjust last minute changes and request urgent approvals"
+      - "**30 Day Risk Free Trial**"
     button:
       enable: true
       label: "Get Started | $5.99"
