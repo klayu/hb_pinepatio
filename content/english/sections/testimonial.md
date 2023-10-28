@@ -8,17 +8,17 @@ testimonials:
   - name: "Sarah"
     designation: "a satisfied user"
     avatar: "/images/test2-f.jpeg"
-    content: "PinePatio has been a game-changer for us. It eliminated our misunderstandings and allows us to focus on what truly matters - our children"
+    content: "Simple and easy. Got it for my kid with peanut allergy."
 
   - name: "Mark"
     designation: "another happy user"
     avatar: "/images/test1-m.jpeg"
-    content: "I used to dread managing our custody schedule, but PinePatio has made it stress-free and efficient. Thank you for making co-parenting a breeze."
+    content: "My dad has dimentia. Love the fact that this has a QR Code that any one can scan and call us."
 
   - name: "Suzy"
     designation: "early adopter"
     avatar: "/images/test1-f.jpeg"
-    content: "I am surprized why there are not many apps like these. Ease of use us just fantastic."
+    content: "Nice combination of QR Code. I did extensive research but none of them offered Quick Call QR Code."
 
 # don't create a separate page
 _build:

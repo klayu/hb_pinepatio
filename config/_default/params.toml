@@ -44,7 +44,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Get Started | $5.99 Only"
+label = "Get Started | $9.99 Only"
 link = "contact"
 
 # search
@@ -62,8 +62,10 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["CoParenting", "CoParenting App", "CoParenting Schedule","CoParenting Schedule Template"]
-description = "CoParenting App for separated parents"
+#keywords = ["CoParenting", "CoParenting App", "CoParenting Schedule","CoParenting Schedule Template"]
+#description = "CoParenting App for separated parents"
+#keywords = ["In Case Or Emergency", "Allergy", "ICE","First Responder"]
+#description = "ICE Card to provide easy and quick access to first responders in emergency"
 author = "Klayu.com"
 image = "images/og-image.png"
 

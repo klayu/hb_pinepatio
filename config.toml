@@ -47,7 +47,7 @@ DefaultContentLanguageInSubdir = false
     "author"
   ]
 #
-  copyright = "Copyright © 2023 - hb_pinepatio · All rights reserved"
+  copyright = "Copyright © 2023 - pinepatio.com · All rights reserved"
   favicon = "/favicon.svg"
 #
   ascentColor = "bg-blue-100"
