@@ -14,7 +14,7 @@ banner:
 features:
   - title: "How it helps you in Emergency ?"
     image: "/images/secid/old2.png"
-    content: "Every first responder will tell you that in case of emergency, they want to know cirtical information about the person and they want to know it FAST. They want to be able to reach the loved ones evern FASTER. We designed this UNIQUE card with emergency numbers and QR Code to enable quick access to first responders."
+    content: "Every first responder will tell you that in case of emergency, they want to know cirtical information about the person and they want to know it FAST. They want to be able to reach the loved ones even FASTER. We designed this UNIQUE card with emergency numbers and QR Code to enable quick access to first responders."
     bulletpoints:
       - "**Emergency Contact Card** : Experience peace of mind with our Customized 2-Contact ICE Card. This medical alert card, featuring a vibrant red header for instant attention, will become your lifeline during emergencies."
       - "**Life Alert Card** In times of emergency, this medical ID card will give vital insights to first responders while enabling your loved ones to be alerted quickly. Bid farewell to fumbling for details or depending on frail, handwritten notes!"
