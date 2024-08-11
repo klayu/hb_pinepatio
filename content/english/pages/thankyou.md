@@ -1,5 +1,5 @@
 ---
-title: "Thanks for Joining the Waitlist"
+title: "Please check your email"
 # meta title
 meta_title: ""
 # meta description
@@ -10,6 +10,5 @@ draft: false
 
 # Thank You
 
-We have added you to the waitlist.
+We have sent you a secure email to get started.
 
-Expect to hear from us shortly.
