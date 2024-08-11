@@ -1,5 +1,5 @@
 ---
-title: "Please check your email"
+title: "Lets get started"
 # meta title
 meta_title: ""
 # meta description
@@ -8,7 +8,9 @@ description: "This is meta description"
 draft: false
 ---
 
-# Thank You
+# Let's start :
 
-We have sent you a secure email to get started.
+Please submit the following secure form with required details :
 
+
+{{< button label="START HERE" link="https://forms.gle/JoyAhwPbZLZSs5hF6" style="solid" >}}
