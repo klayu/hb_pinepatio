@@ -10,7 +10,7 @@ draft: false
 
 # Let's start :
 
-Please submit the following secure form with required details :
+In the following form, please provide us with the details that you would like to be printed on the Emerygency Card :
 
 
 {{< button label="START HERE" link="https://forms.gle/JoyAhwPbZLZSs5hF6" style="solid" >}}
